@@ -10,8 +10,4 @@ This is Mevanu’s public reading room: how we organize the work, what we are le
 - **[Founder’s Bookshelf](https://mevanu.ai/guides)** — practical guides for professionals starting or running a venture with AI.
 - **[See the work](https://mevanu.ai/see-the-work)** — build updates, demonstrations and recordings.
 
-The product source and development history are maintained separately in private repositories. Publishing these notes does not make the build public.
-
-**Proprietary.** This is a reading room, not an open-source release. See the [permissions notice](LICENSE).
-
 Visit **[mevanu.ai](https://mevanu.ai/)**. For help with your own setup, explore **[Mevanu consulting](https://mevanu.ai/consulting)**.
